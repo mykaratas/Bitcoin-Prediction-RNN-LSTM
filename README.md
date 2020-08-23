@@ -1,1 +1,1 @@
-# Bitcoin_PredictionRNNLSTM
+# Bitcoin-Prediction-RNN-LSTM
